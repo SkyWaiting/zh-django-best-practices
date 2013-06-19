@@ -14,7 +14,7 @@ Django 最佳实践 - 中文版 (2009-06-17)
 
 :项目主页:
     - `django-best-practices`_
-    - `django-best-practices - 中文版 <https://github.com/brantyoung/zh-django-best-practices>`_
+    - `django-best-practices - 中文版 <https://github.com/justjavac/zh-django-best-practices>`_
 
 .. _readme:
 
@@ -29,7 +29,7 @@ Django 最佳实践 - 中文版 (2009-06-17)
 
 原文和译文的源文件均使用 `reStructuredText <http://docutils.sourceforge.net/>`__ 格式, 可以用 `Sphinx <http://sphinx.pocoo.org>`__ 转换成 HTML 等格式的文档.
 
-+ `中文最新版本在线文档 <https://github.com/brantyoung/zh-django-best-practices/blob/master/readme.rst/>`__
++ `中文最新版本在线文档 <https://github.com/justjavac/zh-django-best-practices/blob/master/readme.rst/>`__
 
 .. note:: 中文版力求保持和英文版同步更新. 当前版本 2009-06-17 11:32:35
 
